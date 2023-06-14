@@ -22,7 +22,7 @@
           <b-dropdown-item>Nombre completo usuario</b-dropdown-item>
           <b-dropdown-item href="#">Ver perfil</b-dropdown-item>
         </b-nav-item-dropdown>
-        <b-button size="sm" class="bgsecondary">Salir</b-button>
+        <b-button size="sm" class="bgsecondary" variant="success">Salir</b-button>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
